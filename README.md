@@ -1,2 +1,2 @@
 # exam
-namoo exam
+namoo exam .
